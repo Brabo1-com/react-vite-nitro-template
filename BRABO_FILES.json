@@ -1,0 +1,455 @@
+{
+  "version": 1,
+  "publicationAuthorized": true,
+  "files": {
+    ".gitignore": {
+      "sha256": "5ca9eee4ee18b4c035f8227f1519a3cb917478deddcc63150dc94be65004dafc",
+      "size": 501
+    },
+    ".npmrc": {
+      "sha256": "9f5289fd24c050300da30bb80c9f6774a29c0f2d37f43b3a0f1c51ad072e3d02",
+      "size": 101
+    },
+    "AI_RULES.md": {
+      "sha256": "363a85371cf0a1c884be00c3519cc85a3fbe33b00c158be9b7030bb214295fa8",
+      "size": 4053
+    },
+    "BRABO_SOURCE.json": {
+      "sha256": "b5e5cdafad5b924aeae01de7c1bb3b67ed9face6f858981975ca9f030c3ce448",
+      "size": 42345
+    },
+    "DEPENDENCIES.json": {
+      "sha256": "d14410a781bec4449e1b8455800ca072038381a4f32bac2347bc3f12d7582142",
+      "size": 105419
+    },
+    "LICENSE": {
+      "sha256": "eb194f9b70920f23323e2f993330f92d175e361fd11efb526626f71f9be8f8b2",
+      "size": 11694
+    },
+    "NOTICE": {
+      "sha256": "7a46cf0cf6b89702d1f2786fb2657dfaa75971ec378c22a7622472d73f991575",
+      "size": 297
+    },
+    "README.md": {
+      "sha256": "20adf0f8efc06ba2c7490de681e0f0c27cc9e25217473f4a3a5f406247f3488e",
+      "size": 1723
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "sha256": "34c026e2c0bbbefc4cbe4aa28253f989c4818d70c1c59cc90445236395e24e97",
+      "size": 2800
+    },
+    "components.json": {
+      "sha256": "9820835141c54e5b5dfbb68b3c3790db73c9ebfb967884ae3fccd058d698a1a6",
+      "size": 414
+    },
+    "eslint.config.js": {
+      "sha256": "6dd21c98a01b0791c08ffc5ec936818b7106e0f4e4a6b314b2bce00c7c34c9a4",
+      "size": 1088
+    },
+    "index.html": {
+      "sha256": "ac4b2c8343029762e0d70e54e90cdeeac494fdc8b9e67f5ce3143ee539d00a20",
+      "size": 426
+    },
+    "nitro.config.ts": {
+      "sha256": "5e72698cc1ce6524a6a8f8af221282fa04bc6f0e27690d4f91bfa426096e8ad0",
+      "size": 187
+    },
+    "package.json": {
+      "sha256": "9cfc12a8f3de60cbed308f5ecb49c038a41d5ca3b59e9e7c939d17545d0f4364",
+      "size": 3361
+    },
+    "pnpm-lock.yaml": {
+      "sha256": "622f70c88dd69f675fdb8a393fe400305c71e4f4451506e76a0e97e96a8f5f42",
+      "size": 192757
+    },
+    "postcss.config.js": {
+      "sha256": "e32657baf631d7c5f4dc67b4b2ee0ec8e7d5b3c41860e09cddce7c0377cd80bc",
+      "size": 81
+    },
+    "tailwind.config.ts": {
+      "sha256": "f7bbf88884af202dd1d26deb0511ada70e13db1de04411995235f2a46c97d181",
+      "size": 2831
+    },
+    "tsconfig.app.json": {
+      "sha256": "3d44641a0151484d5adb5c764a4766a8e31076d2fd557dbe8c6e1c87863058f7",
+      "size": 652
+    },
+    "tsconfig.json": {
+      "sha256": "1914430cf76f7e28628f4a14b7b09e256f5ac5263e816c63691b08cf083994a8",
+      "size": 381
+    },
+    "tsconfig.node.json": {
+      "sha256": "c7d35567ee880acbfd2d176b976b23b615d3a49573147733410d6d971930f212",
+      "size": 578
+    },
+    "vercel.json": {
+      "sha256": "fb7e9bbea58c2456d9aaaacfb046bc84bb9105094b92a0a008a2213fc05f3fa4",
+      "size": 110
+    },
+    "vite.config.ts": {
+      "sha256": "b706e593b1670e1cb489d1c7eb3ca09937663cdf15265a53229b53e17576fbee",
+      "size": 545
+    },
+    "LICENSES/Brabo-assets-MIT.txt": {
+      "sha256": "20a9aced2ba89c620ff45288b0a1a83f249a3b65cbf1b76444244ea41a1c0987",
+      "size": 1075
+    },
+    "LICENSES/Jiti-MIT.txt": {
+      "sha256": "46231df5a7733c3f52f11b71f3df61813007745b62b09031acfb45fb42d75082",
+      "size": 1078
+    },
+    "LICENSES/Nitro-MIT.txt": {
+      "sha256": "ca35600212e454ce603a0ce8088f4cc700f9633f4afe41dae9e7835cdfa9f6c0",
+      "size": 1322
+    },
+    "LICENSES/Nitro-third-party-notices.txt": {
+      "sha256": "e39b41f3688d11a84627b0e66fe2bc56ec4175a9d6b5c0bc381c56454065af2d",
+      "size": 76531
+    },
+    "LICENSES/React-MIT.txt": {
+      "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+      "size": 1088
+    },
+    "LICENSES/Vite-MIT.txt": {
+      "sha256": "40501d82eb20f60d031aaaa3291a103d72551ebd49e11e73ba94ea34589e7bdd",
+      "size": 108466
+    },
+    "LICENSES/shadcn-MIT.txt": {
+      "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f",
+      "size": 1063
+    },
+    "public/favicon.svg": {
+      "sha256": "4a64b755dab0a951b18f8a1e0d49163c4b0c8e9d0129901482f9f88521fd1b6b",
+      "size": 484
+    },
+    "public/placeholder.svg": {
+      "sha256": "64badf7aabda0b9630b87020ffb6095cb858ccbcf66b355c2aa08b1063954d3b",
+      "size": 3253
+    },
+    "public/robots.txt": {
+      "sha256": "a3d27b3ca5ce32341fa9f96f01169b521b1657c05d1860c45d1e53a6258e9e8b",
+      "size": 160
+    },
+    "server/routes/api/hello.ts": {
+      "sha256": "0afa9f81965828173b0ca79230e8fee63dec43d50dea0c3bd289ce4c1edb1126",
+      "size": 258
+    },
+    "src/App.css": {
+      "sha256": "a0715e0a09edbd0fbde65816a75e0fa0fc8b314c5260c0768c19bf3aac22621a",
+      "size": 606
+    },
+    "src/App.tsx": {
+      "sha256": "4e69ef9f71a824d0a6b0965300a4738f34e54a39d58433104162a61b6d072d49",
+      "size": 871
+    },
+    "src/globals.css": {
+      "sha256": "af39f24a984013cc3e84f37d047cd45e1130491a7a29d5386f9a8113bbe57d2a",
+      "size": 2235
+    },
+    "src/main.tsx": {
+      "sha256": "5cbfd5e41e9218faa071fd97a799497ba5e31423f3a38d4d16adae98a11b80a4",
+      "size": 163
+    },
+    "src/vite-env.d.ts": {
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+      "size": 38
+    },
+    "src/components/made-with-brabo.tsx": {
+      "sha256": "d8f81b2f15cdd5c5e1a436f1dc2404b02e552d3f210f79f33db5ab0525ecd3b3",
+      "size": 472
+    },
+    "src/components/ui/accordion.tsx": {
+      "sha256": "b728b30af5d9f770a34d5b4ae85ea720c90664fa55d83ad3d9835f48f20f5846",
+      "size": 1990
+    },
+    "src/components/ui/alert-dialog.tsx": {
+      "sha256": "6f5d2b743e097cc0f38a8201fc9472bbcffa7ef80653eb09ac1733f470dd675c",
+      "size": 4449
+    },
+    "src/components/ui/alert.tsx": {
+      "sha256": "050c08a3ec850a8fae8579b2bdbb4c9b8aa64744b580f07e2b26f7e6fc17dac0",
+      "size": 1596
+    },
+    "src/components/ui/aspect-ratio.tsx": {
+      "sha256": "d72c73d629e37995a0a71647d851d68d6fdcd7ec120797f36ab83a8ee89f2cab",
+      "size": 143
+    },
+    "src/components/ui/avatar.tsx": {
+      "sha256": "3f1e0c4584f57768a80e3d37bc45046f8773bb87bb8cecd5994007bbe6dfdc8b",
+      "size": 1417
+    },
+    "src/components/ui/badge.tsx": {
+      "sha256": "e3d596378d2db6fd77d5d5a8f060b0a1f4f125dfb09732c7c720e77e80efe4fa",
+      "size": 1139
+    },
+    "src/components/ui/breadcrumb.tsx": {
+      "sha256": "ab1107eca1e4a95589f67b96ac5c58ed72f4e90789bdd796da4789e05756cadc",
+      "size": 2725
+    },
+    "src/components/ui/button.tsx": {
+      "sha256": "e255b2d86dd0186ea9e21883235990ecf99ac40401db35b7fc4146c433a42b30",
+      "size": 1918
+    },
+    "src/components/ui/calendar.tsx": {
+      "sha256": "3a87455bf5f1bb8ce8d2cefeff0c93648071dac1484edb3a598280c2d6bdd18e",
+      "size": 2787
+    },
+    "src/components/ui/card.tsx": {
+      "sha256": "53d0983fd47917355ab26c73690c27657f76ed990d421c776e1c758822e016f2",
+      "size": 1907
+    },
+    "src/components/ui/carousel.tsx": {
+      "sha256": "668007dd3c85202cd10bdd5f54882c9d69f5037a1e0d9fe67d03be7a2bd3a387",
+      "size": 6289
+    },
+    "src/components/ui/chart.tsx": {
+      "sha256": "c1a545f9616ac3127a9877a9b6709e2c9ca756785d2cd2e138d2e77947877512",
+      "size": 10550
+    },
+    "src/components/ui/checkbox.tsx": {
+      "sha256": "2b80d1d1f7871c1321a58d8846675f4183cd499ccb7b45d343c83362c0ca6551",
+      "size": 1064
+    },
+    "src/components/ui/collapsible.tsx": {
+      "sha256": "fbe07841b794e0d7d08e87ddaaafadf1dc0c63ecc8389cd2c5b4a0a3f5500df1",
+      "size": 320
+    },
+    "src/components/ui/command.tsx": {
+      "sha256": "daa2741ed51850c27e274003e515c64f6b4ba1e93bc0d244ce89890a1aed629a",
+      "size": 5001
+    },
+    "src/components/ui/context-menu.tsx": {
+      "sha256": "3f4ebfd3c4b9529ef88edc6ae95de3b247f9f7d7ce5b3e9878dc6b313cadc7f1",
+      "size": 7287
+    },
+    "src/components/ui/dialog.tsx": {
+      "sha256": "8644fc7b6b073ff879e5243a2c68ef7b76ada387cdd643708b1abfc111dbbfeb",
+      "size": 3861
+    },
+    "src/components/ui/drawer.tsx": {
+      "sha256": "4aa0c46d31a16691240ff23b412219b7834bd95ccc8ffa918d9a00f36847b3fc",
+      "size": 3030
+    },
+    "src/components/ui/dropdown-menu.tsx": {
+      "sha256": "74db29dbb246dd23d22f9b93c36f49e14ff41f5e1616ebb761033590139c99e6",
+      "size": 7335
+    },
+    "src/components/ui/form.tsx": {
+      "sha256": "349eada8b53e7444ae6d6cd19b4edff45f4f87fc7489572ac97844cbd9fd0616",
+      "size": 4139
+    },
+    "src/components/ui/hover-card.tsx": {
+      "sha256": "8d606e166ef5f9bc4fc3efb1f6ce2f4bb376177a2c6fef16f67f87ad2d13d005",
+      "size": 1193
+    },
+    "src/components/ui/input-otp.tsx": {
+      "sha256": "2afd0fb58ed8ca796dbaaa4a7f2a4c50602df01e5f74e0ace3a3201ff09adc91",
+      "size": 2172
+    },
+    "src/components/ui/input.tsx": {
+      "sha256": "aacef8933fe99ab553e12a82c874a23c97e2b5602eb6f00018454fa0a8d4f7f2",
+      "size": 799
+    },
+    "src/components/ui/label.tsx": {
+      "sha256": "4d790d260bf73221b05e3918a7fe5f86cb36b10d70955df7fdfcea23a2f10a44",
+      "size": 719
+    },
+    "src/components/ui/menubar.tsx": {
+      "sha256": "7d9931a721eae883364ff5892f3e9bbdb686f04a11d72dc22abf635ed47e00bd",
+      "size": 8022
+    },
+    "src/components/ui/navigation-menu.tsx": {
+      "sha256": "b3f93b46642320fcaefbf70a478e3441229a3bd2c364d4e2e4c8352d497faf3c",
+      "size": 5073
+    },
+    "src/components/ui/pagination.tsx": {
+      "sha256": "aefb79477d56ec4f36a3b5503d11766503dd5148b365bb93d972f1c869df9868",
+      "size": 2773
+    },
+    "src/components/ui/popover.tsx": {
+      "sha256": "ee5f78ece57c9e8eb5f9b4186e2bb9ebe46b69b52f03f1edd9a601883bc64772",
+      "size": 1239
+    },
+    "src/components/ui/progress.tsx": {
+      "sha256": "d1eed76fb201e43490fc7809f8ce64016a80954c20491f941a10751873d933d5",
+      "size": 784
+    },
+    "src/components/ui/radio-group.tsx": {
+      "sha256": "d8a176b5ef21def2ab06a7724445f58ee17350b2178eea6b302bc3079a009c5c",
+      "size": 1479
+    },
+    "src/components/ui/resizable.tsx": {
+      "sha256": "18f6398bf83de5bd5d109abd7fa5e02d68f4daec30d9f8772be75f5aa7aa189b",
+      "size": 1719
+    },
+    "src/components/ui/scroll-area.tsx": {
+      "sha256": "55190fb3d0243c6108ff57b5235c29e86ffb1a0879a74c872a91d568ee441671",
+      "size": 1651
+    },
+    "src/components/ui/select.tsx": {
+      "sha256": "456e9bd42dc4460fbccce37cf22b999e20a7afbc76ac233f1abd7abbae882712",
+      "size": 5643
+    },
+    "src/components/ui/separator.tsx": {
+      "sha256": "687c8b7e2f53672eb3aca4389916a03bbe2c95441719e6c46e7c5143713fc41d",
+      "size": 765
+    },
+    "src/components/ui/sheet.tsx": {
+      "sha256": "a11720ac7cc2744bf04316f53459f43d6eefe52d45cc405d123d31c5e1c6cf45",
+      "size": 4298
+    },
+    "src/components/ui/sidebar.tsx": {
+      "sha256": "0e3ba43b0359700f247903ab9c455aa0c2792abbd81e7447066d32530c4abfbe",
+      "size": 23602
+    },
+    "src/components/ui/skeleton.tsx": {
+      "sha256": "8913724bc2d578e429c2adf993f24bd132696e2c561d80d352706a947bc551d2",
+      "size": 264
+    },
+    "src/components/ui/slider.tsx": {
+      "sha256": "b93ed37b5a78b2d7628abe8e738521a8ed1d19d2a670eb674e11a03069cf4766",
+      "size": 1084
+    },
+    "src/components/ui/sonner.tsx": {
+      "sha256": "dd6d83b7a084015b0f673ff9fc4b63071a40ef62bffd56bc261bdf5f58654d89",
+      "size": 887
+    },
+    "src/components/ui/switch.tsx": {
+      "sha256": "45f67ad2d40d1c43f78d96589b08336a05fa1f1a7f0f36b80d7d5c42d922f567",
+      "size": 1147
+    },
+    "src/components/ui/table.tsx": {
+      "sha256": "f45be6aaffb5c73ad55d7e80e65167028a1ceedf9cafd181ad57f135180edbc2",
+      "size": 2787
+    },
+    "src/components/ui/tabs.tsx": {
+      "sha256": "b73b137c819c8f11bc38f09182a9ac275af88145d03eb84738d866e50d2ca2e9",
+      "size": 1897
+    },
+    "src/components/ui/textarea.tsx": {
+      "sha256": "417572dc76adad669b33debb1783995d0ec305ffd9ebc159ecf2d99aaef18fd9",
+      "size": 869
+    },
+    "src/components/ui/toast.tsx": {
+      "sha256": "020edff7e045a127e6f2f5cc18fb27fd08bbbf4d5d7958aa5825a601f80463b0",
+      "size": 4872
+    },
+    "src/components/ui/toaster.tsx": {
+      "sha256": "a6df21d77b586ca1468e38052bd58e44c056721a40a48c8a0cc8fb5edbd39f65",
+      "size": 777
+    },
+    "src/components/ui/toggle-group.tsx": {
+      "sha256": "33d4f795fd736c599fcdb18acd29a7c954520e2e1773d5e3daf298dad5906aaa",
+      "size": 1753
+    },
+    "src/components/ui/toggle.tsx": {
+      "sha256": "62aa0dc621e296e3904cbc025d596b6d95321ffeac6c7aec244eba6598860445",
+      "size": 1444
+    },
+    "src/components/ui/tooltip.tsx": {
+      "sha256": "bd9361649477cf9496f4b48415a2eafb9ae1ebca81af58a29b61b1516adc88c1",
+      "size": 1155
+    },
+    "src/components/ui/use-toast.ts": {
+      "sha256": "d48c4c490e5101aa42ceed9b8ca49642d66152ba11daf7ee6c29bee0f5172c37",
+      "size": 82
+    },
+    "src/hooks/use-mobile.tsx": {
+      "sha256": "738d8e4520edeca7caa2ca56a4923839e30be14a00fc32b5a770f5d5b451a63e",
+      "size": 585
+    },
+    "src/hooks/use-toast.ts": {
+      "sha256": "4b70ac2ad6f1c640249bb43667f86d8447985c49be8bd0335897ad0ae7c70694",
+      "size": 3955
+    },
+    "src/lib/utils.ts": {
+      "sha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27",
+      "size": 169
+    },
+    "src/pages/Index.tsx": {
+      "sha256": "299d664d913ab2d844e97ba9c6aa0fdecd2f208bd59715430283d753817892bf",
+      "size": 635
+    },
+    "src/pages/NotFound.tsx": {
+      "sha256": "940578bf01ac3dbdcb16f52528bd59903b2cce7698c8b39064f2791022567b0e",
+      "size": 740
+    },
+    "src/utils/toast.ts": {
+      "sha256": "328f94e9c711410b23188484a0a2f38886d7732d5c375cefcba442ab6195783f",
+      "size": 356
+    },
+    "tests/smoke.test.mjs": {
+      "sha256": "cf314ead6417de6c238f4f2cb45ac511ed72837090177862452bec3d62652815",
+      "size": 4360
+    },
+    "vendor/react-vite-component-tagger/LICENSE": {
+      "sha256": "2a51957781fe0eab3e1f156791e5f4b662c5a1428764b5a2c51cac797a13e29a",
+      "size": 11345
+    },
+    "vendor/react-vite-component-tagger/README.md": {
+      "sha256": "48db1c8e0e18a8760060c0a31f9d64e8300186ab956390f955cbadac6519dec1",
+      "size": 361
+    },
+    "vendor/react-vite-component-tagger/package.json": {
+      "sha256": "7a30e5fe77d2c7b6b2f7a8e2ed5a30a1328043c242eee7190835abff2873fe20",
+      "size": 830
+    },
+    "vendor/react-vite-component-tagger/lib/index.cjs": {
+      "sha256": "aebb438c138bd1e0bdc5e2892373c61e02298668ccd51fa51a9506ddd50c49e3",
+      "size": 3799
+    },
+    "vendor/react-vite-component-tagger/lib/index.d.cts": {
+      "sha256": "053d18863a9883cc887882fb3d0e6d7c788600fa8beb6fb42c028fddeb635bd0",
+      "size": 151
+    },
+    "vendor/react-vite-component-tagger/lib/index.d.mts": {
+      "sha256": "053d18863a9883cc887882fb3d0e6d7c788600fa8beb6fb42c028fddeb635bd0",
+      "size": 151
+    },
+    "vendor/react-vite-component-tagger/lib/index.d.ts": {
+      "sha256": "053d18863a9883cc887882fb3d0e6d7c788600fa8beb6fb42c028fddeb635bd0",
+      "size": 151
+    },
+    "vendor/react-vite-component-tagger/lib/index.js": {
+      "sha256": "6c58b9c0ed2ac841f27450aaea78f55ba0979f6bd0c416d37c6a4f1cb9b68c36",
+      "size": 2137
+    },
+    "vendor/react-vite-component-tagger/lib/index.mjs": {
+      "sha256": "aafe1a8da583a74be7e426f5b7bb3890aae737635919ff4fc3c66febb6335abf",
+      "size": 1527
+    },
+    "BRABO_CHANGES.md": {
+      "sha256": "c06ab7429a997bdbe87feca3a90da1b4c4ff29c528fc84458e14507f8d04ea4b",
+      "size": 5387
+    },
+    "public/brabo-template-preview.svg": {
+      "sha256": "f5a50d46088876bbb95ab264ed6675fb74e2d5e760f92a67ff5ec47e1e6eed1f",
+      "size": 1224
+    }
+  },
+  "changedFromReference": [
+    ".gitignore",
+    "AI_RULES.md",
+    "README.md",
+    "eslint.config.js",
+    "index.html",
+    "nitro.config.ts",
+    "package.json",
+    "pnpm-lock.yaml",
+    "server/routes/api/hello.ts",
+    "src/components/ui/command.tsx",
+    "src/components/ui/textarea.tsx",
+    "src/pages/Index.tsx",
+    "tailwind.config.ts",
+    "tsconfig.node.json",
+    "vercel.json",
+    "vite.config.ts"
+  ],
+  "excludedFromReference": [
+    "package-lock.json",
+    "src/components/made-with-dyad.tsx"
+  ],
+  "binaryAssetsNotCopied": [
+    "public/favicon.ico"
+  ]
+}
